@@ -1,0 +1,54 @@
+body {
+  height: 100vh;
+}
+
+.my-btn {
+  height: 40px;
+  width: 40px;
+  outline: none;
+}
+/* 
+.container-filter {
+  height: 100vh;
+  width: 100vw;
+}
+*/
+.bg-clr1 {
+  background-color: rgb(126, 255, 219) !important;
+}
+.bg-clr2 {
+  background-color: rgb(255, 157, 226) !important;
+}
+.bg-clr3 {
+  background-color: rgb(255, 228, 119) !important;
+} 
+
+/* @media only screen and (max-width: 992px) {
+  .filter {
+    margin-left: 0%;
+    margin-top: 1rem !important;
+  }
+  .top-rad {
+    border-top-right-radius: 0.25rem !important;
+    border-top-left-radius: 0.25rem !important;
+  }
+  .bot-rad {
+    border-bottom-right-radius: 0.25rem !important;
+    border-bottom-left-radius: 0.25rem !important;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .form {
+    padding-right: 0 !important;
+    height: 100% !important;
+    position: fixed !important;
+    flex: 0 0 auto;
+    width: 25% !important;
+  }
+  .filter {
+    margin-left: 25% !important;
+    margin-top: 0rem !important;
+    width: 75% !important;
+  }
+} */
