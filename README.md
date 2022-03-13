@@ -1,8 +1,7 @@
 # Redux Notes App
+![image](https://user-images.githubusercontent.com/81675762/158052214-df40aef2-6bed-4c74-9711-e8d957e61180.png)
 
-![Redux Notes App Jpg](./redux-notes-app.jpg)
-
-[Live](https://notes-app-pat.netlify.app)
+[Live](https://redux-notes-h.netlify.app)
 
 ## Getting Started with Create React App
 
